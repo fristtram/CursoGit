@@ -1,1 +1,3 @@
-<?= Teste de Php ?>
+<?="Adicionado mais linha para teste"?>
+
+<?= "Teste de Php" ?>
